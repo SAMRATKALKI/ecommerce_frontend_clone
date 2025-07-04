@@ -42,7 +42,7 @@ This is a personal, non-commercial project made for educational purposes.
 📩 Contact
 Made with ❤️ by Samrat Kalki
 
-LinkedIn: [https://www.linkedin.com/in/samrat-kalki-a657b5291/]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/samrat-kalki-a657b5291/)
 
 Happy coding! 🚀
 
