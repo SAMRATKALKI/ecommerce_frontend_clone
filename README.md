@@ -6,11 +6,6 @@ It replicates the visual design and layout of the original ecommerce website for
 
 ---
 
-## 🌐 Live Preview
-> *(If hosted on GitHub Pages, Netlify, or Vercel, insert link here)*
-
----
-
 ## 🚀 Features
 
 - ✅ structured homepage layout    
